@@ -1,6 +1,5 @@
 Kingfisher - 
-Project to learn Elastisearch and React
-
-Ingest Foreflight Logs into Elastisearch, then use search to compile a report about a pilot's progress and present the data in a nice way using React.
+A next.js Frontend to show a pilot logbook in a nice way 
+Gets GraphQL results from a backend service
 
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
